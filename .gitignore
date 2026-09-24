@@ -1,0 +1,9 @@
+# Client brief documents (not part of the website)
+*.docx
+read.txt
+
+# OS / editor files
+Thumbs.db
+.DS_Store
+desktop.ini
+.vscode/

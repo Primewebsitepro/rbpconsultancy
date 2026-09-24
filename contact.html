@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- Basic SEO: page title and meta description -->
+  <title>Contact RBP Consultancy | Start a Conversation</title>
+  <meta name="description" content="Tell RBP what you are trying to achieve, whether growing a business, entering a market, sourcing, going digital or launching a new idea.">
+
+  <link rel="icon" type="image/png" href="images/favicon.png">
+  <link rel="preload" href="fonts/GeneralSans-600.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="css/style.css">
+
+  <!-- Reveal animations only apply when JavaScript is available -->
+  <script>document.documentElement.classList.add("js");</script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to main content</a>
+
+  <!-- Site header and primary navigation -->
+  <header class="site-header" id="siteHeader">
+    <div class="container header__inner">
+      <a class="brand" href="index.html" aria-label="RBP Consultancy - home">
+        <img src="images/logo-color-header.png" alt="RBP Consultancy logo" width="1118" height="374">
+      </a>
+      <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="primaryNav">
+        <span class="sr-only">Open menu</span><span class="nav-toggle__bars" aria-hidden="true"></span>
+      </button>
+      <nav class="nav" id="primaryNav" aria-label="Primary">
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="what-we-do.html">What We Do</a></li>
+          <li><a href="industries.html">Industries &amp; Opportunities</a></li>
+          <li><a href="ventures.html">RBP Ventures</a></li>
+          <li><a href="our-approach.html">Our Approach</a></li>
+          <li><a href="about.html">About RBP</a></li>
+          <li><a href="contact.html" class="nav__cta" aria-current="page">Start a Conversation</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main">
+    <!-- Contact -->
+    <section class="page-hero contact-hero" style="background:var(--soft);padding-bottom:clamp(64px,8vw,112px)">
+      <div class="container contact-grid">
+        <div class="reveal">
+          <span class="eyebrow">Contact</span>
+          <h1><span class="line">What are you trying</span> <span class="line">to <span class="accent">achieve?</span></span></h1>
+          <p class="lead" style="margin-top:26px">You may be looking to grow a business, enter a new market, improve your digital presence, source a product or service, develop a new idea, launch a project or simply explore an opportunity.</p>
+          <p style="margin-top:16px">Tell us what you are working on. We will take the time to understand it and determine whether RBP can help.</p>
+          <ul class="tags"><li>Grow a business</li><li>Enter a new market</li><li>Improve your digital presence</li><li>Source a product or service</li><li>Develop a new idea</li><li>Launch a project</li><li>Explore an opportunity</li></ul>
+        </div>
+
+        <div class="form-card reveal" data-delay="1">
+          <form id="contactForm" novalidate>
+            <div class="form-row">
+              <div class="field"><label for="name">Name</label><input id="name" name="name" type="text" autocomplete="name" required></div>
+              <div class="field"><label for="company">Company</label><input id="company" name="company" type="text" autocomplete="organization"></div>
+            </div>
+            <div class="form-row">
+              <div class="field"><label for="email">Email</label><input id="email" name="email" type="email" autocomplete="email" required></div>
+              <div class="field"><label for="country">Country</label><input id="country" name="country" type="text" autocomplete="country-name"></div>
+            </div>
+            <div class="field"><label for="message">What are you looking to achieve?</label><textarea id="message" name="message" required></textarea></div>
+            <button class="btn btn--primary" type="submit" style="width:100%">Start a Conversation <span class="btn__arrow" aria-hidden="true">&rarr;</span></button>
+            <p class="form-status" id="formStatus" role="status" aria-live="polite"></p>
+          </form>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- Site footer -->
+  <footer class="site-footer">
+    <div class="container">
+      <div class="footer__grid">
+        <div>
+          <a class="footer__logo" href="index.html" aria-label="RBP Consultancy - home">
+            <img src="images/logo-light.png" alt="RBP Consultancy - Business Growth, Strategic Partnerships, Ventures" width="1352" height="545" loading="lazy">
+          </a>
+          <p class="footer__about">International business consultancy working across growth, markets, projects and ventures.</p>
+        </div>
+        <div>
+          <h2 class="footer__title">Explore</h2>
+          <ul class="footer__links">
+            <li><a href="what-we-do.html">What We Do</a></li>
+            <li><a href="industries.html">Industries &amp; Opportunities</a></li>
+            <li><a href="ventures.html">RBP Ventures</a></li>
+            <li><a href="our-approach.html">Our Approach</a></li>
+            <li><a href="about.html">About RBP</a></li>
+          </ul>
+        </div>
+        <div>
+          <h2 class="footer__title">Get in touch</h2>
+          <p class="footer__about" style="margin-top:0">Tell us what you are working on. We will take the time to understand it.</p>
+          <a class="btn btn--gold" href="contact.html" style="margin-top:22px">Start a Conversation <span class="btn__arrow" aria-hidden="true">&rarr;</span></a>
+        </div>
+      </div>
+      <div class="footer__bar">
+        <span>&copy; <span id="year">2026</span> RBP Consultancy. All rights reserved.</span>
+        <span>Turning opportunities into action.</span>
+      </div>
+    </div>
+  </footer>
+
+  <script src="js/main.js"></script>
+</body>
+</html>
