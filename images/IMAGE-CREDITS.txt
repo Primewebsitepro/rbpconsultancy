@@ -1,24 +1,31 @@
 Photos are from Pexels (https://www.pexels.com), free for commercial use; attribution is not required.
 Open https://www.pexels.com/photo/<ID>/ to see the photographer and original.
 
-service-growth-strategy 6285085
-service-projects-blueprints 6615095  service-market-entry-airport 4983510
-service-partnerships-meeting 36733323 service-sourcing-warehouse 4483610
-service-digital-laptop 34804003      service-innovation-whiteboard 17724731
-about-meeting-lounge 36765718        approach-team-laptop 7643897
-dubai-aerial 33687811                
-superyacht 6752179                   private-jet 14983522
-art-gallery 26424632                 villa-infinity-pool 31817156
-wine-cellar 30832872                 fine-dining 30469688
-harvest-aerial 1595107               city-towers-aerial 4847105
-crane-sunset 4513940                 network-rack 17323801
-ai-network 8386440                   wind-solar-energy 35105434
-open-pit-mine 2892618                container-port 1554646
+Services
+  service-growth-cafe 4339864            service-projects-blueprints 6615095
+  service-market-entry-flight 12720523   service-partnerships-lunch 9543890
+  service-sourcing-port 1554646          service-digital-laptop 34804003
+  service-launch-open 36729522
 
-Home banner photos 2150801477.jpg and 2150769935.jpg were supplied by the client (check the licence of their source before launch).
+Sections
+  hospitality-hotel-lobby 18426842       partnership-dinner 5718027
+  dubai-aerial 33687811                  crane-sunset 4513940
 
-Wide 2:1 page banners (cropped from): banner-what-we-do 35074089 | banner-industries 17914739
-banner-ventures 4513940 | banner-approach 681347 | banner-about 4847105
+Industries
+  superyacht 6752179                     private-jet 14983522
+  villa-infinity-pool 31817156           network-rack 17323801
+  wind-solar-energy 35105434             wine-cellar 30832872
+  fine-dining 30469688                   city-towers-aerial 4847105
+
+Home banner
+  hero-consultancy-meeting 7433848
+
+Wide 2:1 page banners (cropped from)
+  banner-what-we-do 7971339    banner-industries 34712723 (Monaco harbour)
+  banner-ventures 7413915      banner-about 6457584
+
+Client-supplied, currently not used: 2150801477.jpg, 2150769935.jpg, banner1.jpg
+(if used, check the licence of their source before launch).
 
 logo-color*.png, logo-light.png and favicon.png are derived from the supplied logo.jpeg.
 Font: General Sans by Indian Type Foundry (Fontshare, ITF Free Font License - free for commercial use), in /fonts.
