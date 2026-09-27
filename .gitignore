@@ -2,6 +2,10 @@
 *.docx
 read.txt
 
+# Raw founder photo sources (uncropped; the used, cropped version is images/founder.jpg)
+images/founder.jfif
+images/founder1.jfif
+
 # OS / editor files
 Thumbs.db
 .DS_Store
